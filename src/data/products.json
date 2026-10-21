@@ -1,1 +1,123 @@
-[]
+
+[
+  {
+    "id": 1,
+    "name": "ASUS ROG Zephyrus G16",
+    "price": 1999.99,
+    "category": "Gaming Laptops",
+    "description": "A sleek gaming laptop with powerful performance, a high-quality display, and a portable design. Great for gaming, schoolwork, and creative projects.",
+    "imageUrl": "./images/zephyrus-g16.png"
+  },
+  {
+    "id": 2,
+    "name": "Logitech G305 LIGHTSPEED Wireless Mouse",
+    "price": 39.99,
+    "category": "Gaming Accessories",
+    "description": "A lightweight wireless gaming mouse with precise tracking and long battery life. Designed for responsive gameplay and everyday use.",
+    "imageUrl": "./images/logitech-g305.jpg"
+  },
+  {
+    "id": 3,
+    "name": "HyperX Cloud III Gaming Headset",
+    "price": 99.99,
+    "category": "Gaming Accessories",
+    "description": "A comfortable gaming headset with clear audio and a detachable microphone. Ideal for communicating with teammates and enjoying immersive games.",
+    "imageUrl": "./images/hyperx-cloud-iii.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Secretlab TITAN Evo Gaming Chair",
+    "price": 549.00,
+    "category": "Gaming Furniture",
+    "description": "An adjustable gaming chair with supportive cushioning and an ergonomic design. Built for comfort during gaming, studying, or working.",
+    "imageUrl": "./images/secretlab-titan-evo.png"
+  },
+  {
+    "id": 5,
+    "name": "Alienware Aurora Gaming Desktop",
+    "price": 1799.99,
+    "category": "Gaming Desktops",
+    "description": "A high-performance gaming desktop featuring powerful components and a distinctive case design. Built for demanding games and multitasking.",
+    "imageUrl": "./images/alienware-aurora.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Dell Inspiron Desktop",
+    "price": 699.99,
+    "category": "Desktops",
+    "description": "A reliable desktop computer designed for productivity, schoolwork, and everyday entertainment. Offers responsive performance in a compact design.",
+    "imageUrl": "./images/dell-inspiron.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Anker USB-C Charging Cable",
+    "price": 12.99,
+    "category": "Gaming Accessories",
+    "description": "A durable USB-C charging cable for compatible devices and accessories. Designed for reliable charging and everyday convenience.",
+    "imageUrl": "./images/anker-usbc.png"
+  },
+  {
+    "id": 8,
+    "name": "Lenovo Legion Pro 7i",
+    "price": 2299.99,
+    "category": "Gaming Laptops",
+    "description": "A powerful gaming laptop featuring advanced cooling and a high-refresh-rate display. Designed for demanding games and intensive applications.",
+    "imageUrl": "./images/lenovo-legion-pro-7i.png"
+  },
+  {
+    "id": 9,
+    "name": "MSI Aegis Gaming Desktop",
+    "price": 1599.99,
+    "category": "Gaming Desktops",
+    "description": "A gaming desktop with high-performance hardware and customizable RGB lighting. Great for smooth gameplay, streaming, and multitasking.",
+    "imageUrl": "./images/msi-aegis.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Razer Iskur V2 Gaming Chair",
+    "price": 649.99,
+    "category": "Gaming Furniture",
+    "description": "An ergonomic gaming chair with adjustable lumbar support and a comfortable design. Built to support long gaming and work sessions.",
+    "imageUrl": "./images/razer-iskur-v2.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Corsair K70 RGB Mechanical Keyboard",
+    "price": 159.99,
+    "category": "Gaming Accessories",
+    "description": "A mechanical gaming keyboard featuring responsive switches and customizable RGB lighting. Designed for precision, durability, and comfortable typing.",
+    "imageUrl": "./images/corsair-k70.jpg"
+  },
+  {
+    "id": 12,
+    "name": "SteelSeries QcK XXL Mousepad",
+    "price": 29.99,
+    "category": "Gaming Accessories",
+    "description": "An extended gaming mousepad with a smooth surface for accurate mouse movement. Features a non-slip base to keep it securely in place.",
+    "imageUrl": "./images/steelseries-qck.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Samsung Odyssey G5 Gaming Monitor",
+    "price": 299.99,
+    "category": "Monitors",
+    "description": "A gaming monitor featuring sharp visuals and a high refresh rate. Designed to provide smooth gameplay and an immersive viewing experience.",
+    "imageUrl": "./images/samsung-odyssey-g5.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Elgato Wave:3 USB Microphone",
+    "price": 149.99,
+    "category": "Gaming Accessories",
+    "description": "A USB microphone designed for clear voice recording during gaming, streaming, and video calls. Features convenient controls and easy connectivity.",
+    "imageUrl": "./images/elgato-wave3.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Xbox Wireless Controller",
+    "price": 64.99,
+    "category": "Gaming Accessories",
+    "description": "A wireless gaming controller with responsive buttons and a comfortable grip. Compatible with supported Xbox consoles, Windows PCs, and other devices.",
+    "imageUrl": "./images/xbox-controller.jpg"
+  }
+]
