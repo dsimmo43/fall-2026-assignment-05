@@ -22,7 +22,7 @@
     "price": 99.99,
     "category": "Gaming Accessories",
     "description": "A comfortable gaming headset with clear audio and a detachable microphone. Ideal for communicating with teammates and enjoying immersive games.",
-    "imageUrl": "./images/hyperx-cloud-iii.jpg"
+    "imageUrl": "./images/hyperx-cloud-iii.png"
   },
   {
     "id": 4,
@@ -30,7 +30,7 @@
     "price": 549.00,
     "category": "Gaming Furniture",
     "description": "An adjustable gaming chair with supportive cushioning and an ergonomic design. Built for comfort during gaming, studying, or working.",
-    "imageUrl": "./images/secretlab-titan-evo.png"
+    "imageUrl": "./images/secretlab-titan-evo.jpg"
   },
   {
     "id": 5,
